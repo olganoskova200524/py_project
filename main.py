@@ -1,2 +1,5 @@
 from funcs import plus
-print(plus(2, 2))
+from funcs import minus
+
+plus(2, 2)
+minus(4, 2)
